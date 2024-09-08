@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **College club website**
 
-- 🌱 I’m currently learning **Frameworks , courses etc.**
+- 🌱 I’m currently learning **Frameworks , programming etc.**
 
 - 👨‍💻 My LinkedIn - [https://www.linkedin.com/in/vansh-sharma-346779238/](https://www.linkedin.com/in/vansh-sharma-346779238/)
 
